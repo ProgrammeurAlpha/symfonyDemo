@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'E:\Programmes\wamp\www\symfony_demo\app/config/routing_dev.yml'
